@@ -63,10 +63,10 @@ Predicted Meaning: Indicating a state/condition/form, often a mental/emotional o
 Predicted Meaning: Indicating the language, medium, or means of encoding (e.g., spoke in German)
 
 >>> tagger.tag("He is swimming <head>with</head> his hands.")
-Predicted Meaning: indicating the means or material used to perform an action or acting as the complement of similar participle adjectives (e.g., crammed with, coated with, covered with)
+Predicted Meaning: Indicating the means or material used to perform an action or acting as the complement of similar participle adjectives (e.g., crammed with, coated with, covered with)
 
->>> tagger.tag("She blinked <head>with</head> confusion.")  # Manner
-Predicted Meaning: because of / due to (the physical/mental presence of) (e.g., boiling with anger, shining with dew)
+>>> tagger.tag("She blinked <head>with</head> confusion.")
+Predicted Meaning: Because of / due to (the physical/mental presence of) (e.g., boiling with anger, shining with dew)
 ```
 
 

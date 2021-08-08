@@ -53,7 +53,7 @@ Feel free to omit this training-step and use [our trained weights directly](http
 We attach an example tagger, which can be used in an interactive manner.
 ```python3 -i tagger.py```
 
-Sourrond the preposition for which you like to know the meaning in `<head>...</head>` and feed it to the tagger:
+Sourrond the preposition, for which you like to know the meaning of, with `<head>...</head>` and feed it to the tagger:
 
 ```
 >>> tagger.tag("I am <head>in</head> big trouble")

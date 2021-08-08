@@ -1,7 +1,7 @@
 
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
 
-# New State-of-the-Art in Preposition Sense Disambiguation
+# New state-of-the-Art in Preposition Sense Disambiguation
 
 **Supervisor:**
 * [Prof. Dr. Alexander Mehler](https://www.texttechnologylab.org/team/alexander-mehler/)

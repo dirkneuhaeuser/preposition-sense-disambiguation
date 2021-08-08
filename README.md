@@ -43,9 +43,9 @@ First, install the requirements.txt. Afterwards, you can train the bert-model by
 
 ``` python3 trainer.py --batch-size 16 --learning-rate 1e-4 --epochs 4 --data-path "./data/training_data.tsv" ```
 
-The chosen arguments in the above example are already set by default and are our values after hyper-parameter optimisation. 
+The chosen hyper-parameters in the above example are tuned and already set by default. 
 After training, this will save the weights and config to a new folder `./model_save/`.
-Feel free to omit this training-step and use [our trained weights directly](#https://drive.google.com/drive/folders/1LGSeQt7TK-p4Lq_inJiBo4BMPL27c0Yq).
+Feel free to omit this training-step and use [our trained weights directly](https://drive.google.com/drive/folders/1LGSeQt7TK-p4Lq_inJiBo4BMPL27c0Yq).
 
 
 ## Examples
